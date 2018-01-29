@@ -1,2 +1,2 @@
 # hello-world
-studying git
+New version of ReadMe
